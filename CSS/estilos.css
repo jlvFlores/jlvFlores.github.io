@@ -144,6 +144,7 @@ header .cont-texto .texto .profesion {
     font-weight: 700;
     color: #3895ea;
     margin-bottom: 10px;
+    text-decoration: none;
 }
 .main .trabajos .cont-trabajos .trabajo .descripcion .categoria {
     font-size: 14px;
